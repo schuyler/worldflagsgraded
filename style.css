@@ -1,0 +1,5 @@
+body { margin: 1em auto; max-width: 1024px }
+td { padding: 6px }
+tr { padding: 12px auto }
+table * p { margin-left: 150px }
+a img { border: 1px solid gray; margin: 6px 12px 6px 6px; }
