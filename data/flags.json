@@ -1,0 +1,2221 @@
+{
+   "bs" : {
+      "tags" : [
+         "bc"
+      ],
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "comment" : "Yuurgh... awful colours, but not quite as bad as Aruba.",
+      "name" : "Bahamas",
+      "code" : "bs"
+   },
+   "kh" : {
+      "comment" : "",
+      "name" : "Cambodia",
+      "code" : "kh",
+      "tags" : [
+         "gi"
+      ],
+      "grade" : "C",
+      "score" : "55 / 100"
+   },
+   "sh" : {
+      "code" : "sh",
+      "name" : "Saint Helena",
+      "comment" : "It could be just me, but it looks as though the ship is underwater.",
+      "grade" : "D",
+      "score" : "40 / 100",
+      "tags" : [
+         "cn",
+         "gi"
+      ]
+   },
+   "rw" : {
+      "grade" : "D",
+      "score" : "40 / 100",
+      "tags" : [
+         "1o",
+         "1w",
+         "mc"
+      ],
+      "code" : "rw",
+      "name" : "Rwanda",
+      "comment" : "Writing a big R on an overused tricolour spectacularly unoriginal."
+   },
+   "bf" : {
+      "tags" : [
+         "bc",
+         "e1"
+      ],
+      "score" : "64 / 100",
+      "grade" : "C+",
+      "comment" : "",
+      "code" : "bf",
+      "name" : "Burkina Faso"
+   },
+   "gl" : {
+      "grade" : "C+",
+      "score" : "60 / 100",
+      "tags" : [
+         "e1"
+      ],
+      "name" : "Greenland",
+      "code" : "gl",
+      "comment" : "Possibly most eyewatering flag in existence."
+   },
+   "mt" : {
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "tags" : [
+         "tb"
+      ],
+      "name" : "Malta",
+      "code" : "mt",
+      "comment" : ""
+   },
+   "gu" : {
+      "comment" : "Name of country written on flag in ugly typeface.  Notice that the M of Guam is larger than the other letters.  I have given it this high a grade because it would actually make quite a nice tea towel.",
+      "name" : "Guam",
+      "code" : "gu",
+      "tags" : [
+         "1w",
+         "gi",
+         "tb"
+      ],
+      "score" : "20 / 100",
+      "grade" : "F"
+   },
+   "kz" : {
+      "grade" : "D+",
+      "score" : "45 / 100",
+      "tags" : [
+         "bc",
+         "cl",
+         "tb"
+      ],
+      "name" : "Kazakstan",
+      "code" : "kz",
+      "comment" : ""
+   },
+   "co" : {
+      "comment" : "",
+      "name" : "Colombia",
+      "code" : "co",
+      "tags" : [
+         "o"
+      ],
+      "grade" : "B-",
+      "score" : "65 / 100"
+   },
+   "bn" : {
+      "grade" : "D",
+      "score" : "40 / 100",
+      "tags" : [
+         "bc",
+         "bs",
+         "tb"
+      ],
+      "code" : "bn",
+      "name" : "Brunei",
+      "comment" : "Appears to involve a moustache sprouting from a flagpole."
+   },
+   "bi" : {
+      "tags" : [
+         "tb"
+      ],
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "comment" : "",
+      "code" : "bi",
+      "name" : "Burundi"
+   },
+   "ge" : {
+      "code" : "ge",
+      "name" : "Georgia",
+      "comment" : "",
+      "score" : "60 / 100",
+      "grade" : "C+",
+      "tags" : [
+         "bc"
+      ]
+   },
+   "uz" : {
+      "grade" : "C",
+      "score" : "56 / 100",
+      "tags" : [
+         "ms",
+         "tb"
+      ],
+      "code" : "uz",
+      "name" : "Uzbekistan",
+      "comment" : ""
+   },
+   "yu" : {
+      "tags" : [
+         "bs"
+      ],
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "comment" : "Serbians will have a chance to change this flag when Montenegro secedes from Yugoslavia.  I suggest they take it.",
+      "code" : "yu",
+      "name" : "Yugoslavia"
+   },
+   "kg" : {
+      "tags" : [
+         "cl"
+      ],
+      "grade" : "C",
+      "score" : "57 / 100",
+      "comment" : "Is that a tennis ball on this flag?",
+      "code" : "kg",
+      "name" : "Kyrgyzstan"
+   },
+   "cf" : {
+      "comment" : "Do not attempt to disprove the four-colour theorem on your flag! (This goes for you, too, Mauritius).",
+      "code" : "cf",
+      "name" : "Central African Republic",
+      "tags" : [
+         "o",
+         "tb"
+      ],
+      "grade" : "C-",
+      "score" : "50 / 100"
+   },
+   "za" : {
+      "name" : "South Africa",
+      "code" : "za",
+      "comment" : "Colours a little eye-jarring, but overall very nice design.",
+      "grade" : "A",
+      "score" : "85 / 100",
+      "tags" : []
+   },
+   "ch" : {
+      "code" : "ch",
+      "name" : "Switzerland",
+      "comment" : "",
+      "score" : "85 / 100",
+      "grade" : "A",
+      "tags" : [
+         "gs",
+         "s"
+      ]
+   },
+   "id" : {
+      "tags" : [
+         "s"
+      ],
+      "score" : "70 / 100",
+      "grade" : "B",
+      "comment" : "",
+      "name" : "Indonesia",
+      "code" : "id"
+   },
+   "tm" : {
+      "name" : "Turkmenistan",
+      "code" : "tm",
+      "comment" : "Flag actually includes a Persian (sorry, Turkmen) carpet.  Only flag to both make eyes water and induce vomiting.",
+      "score" : "37 / 100",
+      "grade" : "D-",
+      "tags" : [
+         "e1",
+         "ms",
+         "tb",
+         "v1"
+      ]
+   },
+   "fr" : {
+      "comment" : "",
+      "name" : "France",
+      "code" : "fr",
+      "tags" : [],
+      "score" : "70 / 100",
+      "grade" : "B"
+   },
+   "lu" : {
+      "code" : "lu",
+      "name" : "Luxembourg",
+      "comment" : "",
+      "grade" : "B",
+      "score" : "70 / 100",
+      "tags" : []
+   },
+   "ae" : {
+      "score" : "74 / 100",
+      "grade" : "B",
+      "tags" : [],
+      "code" : "ae",
+      "name" : "United Arab Emirates",
+      "comment" : ""
+   },
+   "pt" : {
+      "name" : "Portugal",
+      "code" : "pt",
+      "comment" : "Portugal force this uninspired effort on their territories, too.",
+      "score" : "40 / 100",
+      "grade" : "D",
+      "tags" : [
+         "tb"
+      ]
+   },
+   "us" : {
+      "comment" : "If one is good, fifty must be just right.",
+      "code" : "us",
+      "name" : "United States",
+      "tags" : [
+         "ms",
+         "tb"
+      ],
+      "grade" : "C+",
+      "score" : "60 / 100"
+   },
+   "bd" : {
+      "code" : "bd",
+      "name" : "Bangladesh",
+      "comment" : "",
+      "grade" : "C+",
+      "score" : "60 / 100",
+      "tags" : [
+         "1o",
+         "bc",
+         "e1"
+      ]
+   },
+   "hu" : {
+      "grade" : "B",
+      "score" : "70 / 100",
+      "tags" : [],
+      "code" : "hu",
+      "name" : "Hungary",
+      "comment" : ""
+   },
+   "ci" : {
+      "tags" : [
+         "1o",
+         "mc"
+      ],
+      "grade" : "B",
+      "score" : "70 / 100",
+      "comment" : "",
+      "code" : "ci",
+      "name" : "Cote D'Ivoire"
+   },
+   "gn" : {
+      "code" : "gn",
+      "name" : "Guinea",
+      "comment" : "",
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "tags" : []
+   },
+   "si" : {
+      "score" : "55 / 100",
+      "grade" : "C",
+      "tags" : [
+         "tb"
+      ],
+      "name" : "Slovenia",
+      "code" : "si",
+      "comment" : ""
+   },
+   "cg" : {
+      "tags" : [],
+      "score" : "70 / 100",
+      "grade" : "B",
+      "comment" : "This is the one whose capital is not Kinshasa.",
+      "name" : "The Other Congo",
+      "code" : "cg"
+   },
+   "cr" : {
+      "comment" : "",
+      "name" : "Costa Rica",
+      "code" : "cr",
+      "tags" : [
+         "tb"
+      ],
+      "grade" : "C",
+      "score" : "55 / 100"
+   },
+   "az" : {
+      "comment" : "",
+      "name" : "Azerbaijan",
+      "code" : "az",
+      "tags" : [
+         "bc",
+         "bs",
+         "e1"
+      ],
+      "grade" : "B-",
+      "score" : "65 / 100"
+   },
+   "ir" : {
+      "comment" : "",
+      "name" : "Iran",
+      "code" : "ir",
+      "tags" : [
+         "tb"
+      ],
+      "grade" : "D+",
+      "score" : "45 / 100"
+   },
+   "cl" : {
+      "tags" : [],
+      "grade" : "A-",
+      "score" : "80 / 100",
+      "comment" : "",
+      "name" : "Chile",
+      "code" : "cl"
+   },
+   "mc" : {
+      "name" : "Monaco",
+      "code" : "mc",
+      "comment" : "Yawn... Nice shape, but nearly as boring as Libya.",
+      "score" : "70 / 100",
+      "grade" : "B",
+      "tags" : [
+         "gs",
+         "s"
+      ]
+   },
+   "bo" : {
+      "comment" : "",
+      "code" : "bo",
+      "name" : "Bolivia",
+      "tags" : [
+         "1o",
+         "mc"
+      ],
+      "score" : "65 / 100",
+      "grade" : "B-"
+   },
+   "ml" : {
+      "code" : "ml",
+      "name" : "Mali",
+      "comment" : "",
+      "score" : "70 / 100",
+      "grade" : "B",
+      "tags" : [
+         "mc"
+      ]
+   },
+   "gh" : {
+      "grade" : "B",
+      "score" : "70 / 100",
+      "tags" : [
+         "1o"
+      ],
+      "name" : "Ghana",
+      "code" : "gh",
+      "comment" : ""
+   },
+   "om" : {
+      "code" : "om",
+      "name" : "Oman",
+      "comment" : "",
+      "grade" : "C",
+      "score" : "55 / 100",
+      "tags" : [
+         "11",
+         "bc"
+      ]
+   },
+   "vi" : {
+      "grade" : "F",
+      "score" : "6 / 100",
+      "tags" : [
+         "1w",
+         "bc",
+         "gi"
+      ],
+      "code" : "vi",
+      "name" : "U.S. Virgin Islands",
+      "comment" : "Appears to have been painted by number. Another unspeakably horrible flag from a US territory."
+   },
+   "sn" : {
+      "name" : "Senegal",
+      "code" : "sn",
+      "comment" : "",
+      "score" : "70 / 100",
+      "grade" : "B",
+      "tags" : [
+         "1o"
+      ]
+   },
+   "ly" : {
+      "name" : "Libya",
+      "code" : "ly",
+      "comment" : "Did you even try?",
+      "score" : "70 / 100",
+      "grade" : "B",
+      "tags" : [
+         "o",
+         "s"
+      ]
+   },
+   "ck" : {
+      "name" : "Cook Islands",
+      "code" : "ck",
+      "comment" : "",
+      "score" : "55 / 100",
+      "grade" : "C",
+      "tags" : [
+         "cn",
+         "ms"
+      ]
+   },
+   "ru" : {
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "tags" : [],
+      "code" : "ru",
+      "name" : "Russian Federation",
+      "comment" : ""
+   },
+   "tg" : {
+      "score" : "70 / 100",
+      "grade" : "B",
+      "tags" : [
+         "bc"
+      ],
+      "code" : "tg",
+      "name" : "Togo",
+      "comment" : ""
+   },
+   "cn" : {
+      "score" : "73 / 100",
+      "grade" : "B",
+      "tags" : [
+         "ms"
+      ],
+      "name" : "China",
+      "code" : "cn",
+      "comment" : ""
+   },
+   "ki" : {
+      "comment" : "",
+      "code" : "ki",
+      "name" : "Kiribati",
+      "tags" : [
+         "gi",
+         "tb"
+      ],
+      "grade" : "D",
+      "score" : "41 / 100"
+   },
+   "se" : {
+      "comment" : "Too garish. (Not what we expected from the Swedes!)",
+      "name" : "Sweden",
+      "code" : "se",
+      "tags" : [
+         "bc"
+      ],
+      "grade" : "B-",
+      "score" : "69 / 100"
+   },
+   "la" : {
+      "tags" : [
+         "gc"
+      ],
+      "grade" : "B",
+      "score" : "71 / 100",
+      "comment" : "",
+      "name" : "Laos",
+      "code" : "la"
+   },
+   "it" : {
+      "tags" : [],
+      "grade" : "B",
+      "score" : "70 / 100",
+      "comment" : "",
+      "code" : "it",
+      "name" : "Italy"
+   },
+   "tz" : {
+      "tags" : [
+         "bc"
+      ],
+      "score" : "70 / 100",
+      "grade" : "B",
+      "comment" : "",
+      "name" : "Tanzania, United Republic of",
+      "code" : "tz"
+   },
+   "mu" : {
+      "comment" : "\"Hey, lots of countries have a tricolour, why don't we have a quadricolour?\"  Big mistake.",
+      "name" : "Mauritius",
+      "code" : "mu",
+      "tags" : [
+         "bc",
+         "v1"
+      ],
+      "score" : "50 / 100",
+      "grade" : "C-"
+   },
+   "pr" : {
+      "score" : "76 / 100",
+      "grade" : "B+",
+      "tags" : [],
+      "name" : "Puerto Rico",
+      "code" : "pr",
+      "comment" : ""
+   },
+   "mp" : {
+      "comment" : "Appears to have been constructed from clip art.  Truly awful.",
+      "name" : "Northern Mariana Islands",
+      "code" : "mp",
+      "tags" : [
+         "gi",
+         "tb"
+      ],
+      "grade" : "F",
+      "score" : "2 / 100"
+   },
+   "nf" : {
+      "name" : "Norfolk Island",
+      "code" : "nf",
+      "comment" : "Looks nice but too obviously inferior rip-off of Canada's flag.",
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "tags" : [
+         "1o",
+         "gi"
+      ]
+   },
+   "sm" : {
+      "tags" : [
+         "gc"
+      ],
+      "grade" : "B",
+      "score" : "70 / 100",
+      "comment" : "",
+      "name" : "San Marino",
+      "code" : "sm"
+   },
+   "hn" : {
+      "score" : "68 / 100",
+      "grade" : "B-",
+      "tags" : [
+         "1o",
+         "ms"
+      ],
+      "name" : "Honduras",
+      "code" : "hn",
+      "comment" : ""
+   },
+   "li" : {
+      "code" : "li",
+      "name" : "Liechtenstein",
+      "comment" : "",
+      "score" : "56 / 100",
+      "grade" : "C",
+      "tags" : []
+   },
+   "jm" : {
+      "tags" : [
+         "gc"
+      ],
+      "score" : "70 / 100",
+      "grade" : "B",
+      "comment" : "",
+      "name" : "Jamaica",
+      "code" : "jm"
+   },
+   "tj" : {
+      "name" : "Tajikistan",
+      "code" : "tj",
+      "comment" : "",
+      "score" : "40 / 100",
+      "grade" : "D",
+      "tags" : [
+         "bc"
+      ]
+   },
+   "ro" : {
+      "score" : "70 / 100",
+      "grade" : "B",
+      "tags" : [],
+      "name" : "Romania",
+      "code" : "ro",
+      "comment" : ""
+   },
+   "sa" : {
+      "score" : "60 / 100",
+      "grade" : "C+",
+      "tags" : [
+         "11",
+         "1w",
+         "gi"
+      ],
+      "name" : "Saudi Arabia",
+      "code" : "sa",
+      "comment" : ""
+   },
+   "ve" : {
+      "comment" : "",
+      "name" : "Venezuela",
+      "code" : "ve",
+      "tags" : [
+         "gc"
+      ],
+      "score" : "70 / 100",
+      "grade" : "B"
+   },
+   "ca" : {
+      "comment" : "Hmm... that maple leaf?  A difficult question, but I think not quite stylised enough.",
+      "code" : "ca",
+      "name" : "Canada",
+      "tags" : [
+         "gi"
+      ],
+      "grade" : "A-",
+      "score" : "80 / 100"
+   },
+   "pg" : {
+      "comment" : "",
+      "code" : "pg",
+      "name" : "Papua New Guinea",
+      "tags" : [
+         "gi"
+      ],
+      "score" : "65 / 100",
+      "grade" : "B-"
+   },
+   "ls" : {
+      "score" : "55 / 100",
+      "grade" : "C",
+      "tags" : [
+         "11"
+      ],
+      "name" : "Lesotho",
+      "code" : "ls",
+      "comment" : ""
+   },
+   "pw" : {
+      "score" : "60 / 100",
+      "grade" : "C+",
+      "tags" : [
+         "1o"
+      ],
+      "code" : "pw",
+      "name" : "Palau",
+      "comment" : ""
+   },
+   "kn" : {
+      "comment" : "",
+      "name" : "Saint Kitts and Nevis",
+      "code" : "kn",
+      "tags" : [],
+      "score" : "76 / 100",
+      "grade" : "B+"
+   },
+   "eg" : {
+      "grade" : "C+",
+      "score" : "60 / 100",
+      "tags" : [
+         "gc",
+         "gi"
+      ],
+      "name" : "Egypt",
+      "code" : "eg",
+      "comment" : ""
+   },
+   "lv" : {
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "tags" : [
+         "bc",
+         "bs"
+      ],
+      "name" : "Latvia",
+      "code" : "lv",
+      "comment" : ""
+   },
+   "cz" : {
+      "tags" : [],
+      "grade" : "B",
+      "score" : "70 / 100",
+      "comment" : "",
+      "code" : "cz",
+      "name" : "Czech Republic"
+   },
+   "fj" : {
+      "tags" : [
+         "cn",
+         "gi",
+         "tb"
+      ],
+      "grade" : "D",
+      "score" : "40 / 100",
+      "comment" : "Features a picture of a lion rolling a cigarette (cf. Sri Lanka)",
+      "code" : "fj",
+      "name" : "Fiji"
+   },
+   "ua" : {
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "tags" : [
+         "bc"
+      ],
+      "code" : "ua",
+      "name" : "Ukraine",
+      "comment" : ""
+   },
+   "al" : {
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "tags" : [],
+      "name" : "Albania",
+      "code" : "al",
+      "comment" : ""
+   },
+   "tr" : {
+      "comment" : "",
+      "code" : "tr",
+      "name" : "Turkey",
+      "tags" : [
+         "s"
+      ],
+      "score" : "85 / 100",
+      "grade" : "A"
+   },
+   "dm" : {
+      "comment" : "Do not put a picture of a parrot on your flag! (This goes for you too, Guatamala!)",
+      "code" : "dm",
+      "name" : "Dominica",
+      "tags" : [
+         "bc",
+         "gi",
+         "tb"
+      ],
+      "grade" : "D",
+      "score" : "40 / 100"
+   },
+   "ye" : {
+      "name" : "Yemen",
+      "code" : "ye",
+      "comment" : "",
+      "grade" : "B",
+      "score" : "70 / 100",
+      "tags" : []
+   },
+   "sr" : {
+      "tags" : [],
+      "score" : "71 / 100",
+      "grade" : "B",
+      "comment" : "",
+      "code" : "sr",
+      "name" : "Suriname"
+   },
+   "ht" : {
+      "tags" : [
+         "gc",
+         "s"
+      ],
+      "grade" : "B",
+      "score" : "70 / 100",
+      "comment" : "",
+      "name" : "Haiti",
+      "code" : "ht"
+   },
+   "lb" : {
+      "comment" : "",
+      "name" : "Lebanon",
+      "code" : "lb",
+      "tags" : [
+         "gi"
+      ],
+      "grade" : "C",
+      "score" : "55 / 100"
+   },
+   "il" : {
+      "name" : "Israel",
+      "code" : "il",
+      "comment" : "",
+      "grade" : "A",
+      "score" : "85 / 100",
+      "tags" : []
+   },
+   "mm" : {
+      "comment" : "",
+      "code" : "mm",
+      "name" : "Myanmar (Burma)",
+      "tags" : [
+         "gi"
+      ],
+      "grade" : "C",
+      "score" : "55 / 100"
+   },
+   "bz" : {
+      "score" : "40 / 100",
+      "grade" : "D",
+      "tags" : [
+         "1w",
+         "gi",
+         "tb"
+      ],
+      "code" : "bz",
+      "name" : "Belize",
+      "comment" : ""
+   },
+   "gb" : {
+      "tags" : [
+         "tb"
+      ],
+      "score" : "70 / 100",
+      "grade" : "B",
+      "comment" : "",
+      "name" : "United Kingdom",
+      "code" : "gb"
+   },
+   "ws" : {
+      "code" : "ws",
+      "name" : "Samoa",
+      "comment" : "",
+      "grade" : "C+",
+      "score" : "60 / 100",
+      "tags" : []
+   },
+   "pl" : {
+      "comment" : "",
+      "name" : "Poland",
+      "code" : "pl",
+      "tags" : [
+         "s"
+      ],
+      "score" : "70 / 100",
+      "grade" : "B"
+   },
+   "cd" : {
+      "tags" : [
+         "ms"
+      ],
+      "score" : "74 / 100",
+      "grade" : "B",
+      "comment" : "This is the one whose capital is Kinshasa.",
+      "name" : "Congo (formerly Zaire)",
+      "code" : "cd"
+   },
+   "bh" : {
+      "grade" : "B",
+      "score" : "70 / 100",
+      "tags" : [
+         "gc",
+         "s"
+      ],
+      "code" : "bh",
+      "name" : "Bahrain",
+      "comment" : ""
+   },
+   "af" : {
+      "comment" : "This is the flag used in Afghanistan before the Russian invasion (and now used by the Northern Alliance). The Taliban flag was naver recognised by the UN (it is black and white with writing on it, and would receive a much lower grade).",
+      "code" : "af",
+      "name" : "Afghanistan",
+      "tags" : [
+         "11",
+         "gi"
+      ],
+      "grade" : "C",
+      "score" : "56 / 100"
+   },
+   "st" : {
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "tags" : [],
+      "name" : "Sao Tome and Principe",
+      "code" : "st",
+      "comment" : "Black stars too adolescent."
+   },
+   "bw" : {
+      "code" : "bw",
+      "name" : "Botswana",
+      "comment" : "",
+      "score" : "79 / 100",
+      "grade" : "B+",
+      "tags" : [
+         "gc",
+         "s"
+      ]
+   },
+   "bg" : {
+      "score" : "60 / 100",
+      "grade" : "C+",
+      "tags" : [
+         "bc"
+      ],
+      "name" : "Bulgaria",
+      "code" : "bg",
+      "comment" : "Possibly worst traditional tricolour."
+   },
+   "iq" : {
+      "code" : "iq",
+      "name" : "Iraq",
+      "comment" : "Best features of this flag stolen from Syria.",
+      "score" : "55 / 100",
+      "grade" : "C",
+      "tags" : [
+         "1o",
+         "1w",
+         "gc"
+      ]
+   },
+   "ao" : {
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "tags" : [
+         "11",
+         "cl"
+      ],
+      "code" : "ao",
+      "name" : "Angola",
+      "comment" : "Machete on flag nicely depicted but not wise idea."
+   },
+   "cm" : {
+      "tags" : [
+         "mc"
+      ],
+      "score" : "70 / 100",
+      "grade" : "B",
+      "comment" : "",
+      "name" : "Cameroon",
+      "code" : "cm"
+   },
+   "do" : {
+      "tags" : [],
+      "grade" : "B",
+      "score" : "70 / 100",
+      "comment" : "",
+      "name" : "Dominican Republic",
+      "code" : "do"
+   },
+   "bb" : {
+      "comment" : "Silly trident thing looks ridiculous.",
+      "name" : "Barbados",
+      "code" : "bb",
+      "tags" : [
+         "gc"
+      ],
+      "score" : "65 / 100",
+      "grade" : "B-"
+   },
+   "ne" : {
+      "name" : "Niger",
+      "code" : "ne",
+      "comment" : "",
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "tags" : [
+         "gs"
+      ]
+   },
+   "ec" : {
+      "comment" : "The Columbian flag was not very good to begin with, fine effort from Ecuador making it worse.",
+      "name" : "Ecuador",
+      "code" : "ec",
+      "tags" : [
+         "1o",
+         "gi",
+         "tb"
+      ],
+      "score" : "64 / 100",
+      "grade" : "C+"
+   },
+   "cy" : {
+      "tags" : [
+         "1m",
+         "bc"
+      ],
+      "grade" : "D",
+      "score" : "40 / 100",
+      "comment" : "What can I say?  The mother of all flags with maps on them.",
+      "name" : "Cyprus",
+      "code" : "cy"
+   },
+   "ee" : {
+      "name" : "Estonia",
+      "code" : "ee",
+      "comment" : "",
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "tags" : []
+   },
+   "ie" : {
+      "name" : "Ireland",
+      "code" : "ie",
+      "comment" : "",
+      "score" : "70 / 100",
+      "grade" : "B",
+      "tags" : []
+   },
+   "mx" : {
+      "score" : "52 / 100",
+      "grade" : "C-",
+      "tags" : [
+         "gi",
+         "tb"
+      ],
+      "name" : "Mexico",
+      "code" : "mx",
+      "comment" : ""
+   },
+   "pa" : {
+      "score" : "70 / 100",
+      "grade" : "B",
+      "tags" : [
+         "e1"
+      ],
+      "code" : "pa",
+      "name" : "Panama",
+      "comment" : ""
+   },
+   "gq" : {
+      "comment" : "",
+      "name" : "Equatorial Guinea",
+      "code" : "gq",
+      "tags" : [
+         "1w",
+         "gi"
+      ],
+      "grade" : "D+",
+      "score" : "45 / 100"
+   },
+   "de" : {
+      "comment" : "",
+      "name" : "Germany",
+      "code" : "de",
+      "tags" : [],
+      "score" : "70 / 100",
+      "grade" : "B"
+   },
+   "tv" : {
+      "comment" : "Tuvalu was previously on 50.  However, I didn't realise the horrible truth about their flag.  Those stars aren't in a random arrangement at all... they're in the shape of the islands that make up the country.  It's a map!  On the other hand much of Tuvalu will soon be underwater owing global warming, and they'll have to remove some of those stars.",
+      "name" : "Tuvalu",
+      "code" : "tv",
+      "tags" : [
+         "1m",
+         "bc",
+         "ms",
+         "tb"
+      ],
+      "score" : "49 / 100",
+      "grade" : "D+"
+   },
+   "sl" : {
+      "tags" : [
+         "gc",
+         "mc"
+      ],
+      "grade" : "B",
+      "score" : "70 / 100",
+      "comment" : "",
+      "code" : "sl",
+      "name" : "Sierra Leone"
+   },
+   "nu" : {
+      "score" : "39 / 100",
+      "grade" : "D-",
+      "tags" : [
+         "bc",
+         "tb"
+      ],
+      "code" : "nu",
+      "name" : "Niue",
+      "comment" : "Worst colour scheme of any flag derived from the Union Jack."
+   },
+   "md" : {
+      "score" : "55 / 100",
+      "grade" : "C",
+      "tags" : [
+         "bs",
+         "gi",
+         "tb"
+      ],
+      "name" : "Moldova, Republic of",
+      "code" : "md",
+      "comment" : ""
+   },
+   "at" : {
+      "name" : "Austria",
+      "code" : "at",
+      "comment" : "",
+      "grade" : "B+",
+      "score" : "75 / 100",
+      "tags" : [
+         "s"
+      ]
+   },
+   "sc" : {
+      "comment" : "Urrgh... ohhh... feel sick...",
+      "code" : "sc",
+      "name" : "Seychelles",
+      "tags" : [
+         "bc",
+         "tb",
+         "v1"
+      ],
+      "grade" : "C-",
+      "score" : "50 / 100"
+   },
+   "is" : {
+      "score" : "75 / 100",
+      "grade" : "B+",
+      "tags" : [],
+      "name" : "Iceland",
+      "code" : "is",
+      "comment" : ""
+   },
+   "ai" : {
+      "tags" : [
+         "cn"
+      ],
+      "score" : "41 / 100",
+      "grade" : "D",
+      "comment" : "",
+      "code" : "ai",
+      "name" : "Anguilla"
+   },
+   "br" : {
+      "comment" : "Starmap original but atrocious.  Worst flag of any independent nation state.",
+      "code" : "br",
+      "name" : "Brazil",
+      "tags" : [
+         "1w",
+         "tb"
+      ],
+      "grade" : "D-",
+      "score" : "35 / 100"
+   },
+   "lt" : {
+      "comment" : "",
+      "name" : "Lithuania",
+      "code" : "lt",
+      "tags" : [
+         "bc"
+      ],
+      "grade" : "B-",
+      "score" : "65 / 100"
+   },
+   "zm" : {
+      "comment" : "Interesting layout doesn't redeem the bad colours on this one.",
+      "code" : "zm",
+      "name" : "Zambia",
+      "tags" : [
+         "bc",
+         "gi",
+         "o"
+      ],
+      "score" : "45 / 100",
+      "grade" : "D+"
+   },
+   "mz" : {
+      "tags" : [
+         "11",
+         "gi",
+         "tb"
+      ],
+      "grade" : "D-",
+      "score" : "37 / 100",
+      "comment" : "Automatic weapons on a flag are especially bad.  Appears to have been designed by a committee all of whom had stupid ideas for pictures of extra things to put on the flag.",
+      "name" : "Mozambique",
+      "code" : "mz"
+   },
+   "ag" : {
+      "score" : "55 / 100",
+      "grade" : "C",
+      "tags" : [
+         "tb"
+      ],
+      "name" : "Antigua and Barbuda",
+      "code" : "ag",
+      "comment" : ""
+   },
+   "sy" : {
+      "tags" : [
+         "gc"
+      ],
+      "grade" : "B+",
+      "score" : "76 / 100",
+      "comment" : "",
+      "code" : "sy",
+      "name" : "Syria"
+   },
+   "be" : {
+      "comment" : "",
+      "name" : "Belgium",
+      "code" : "be",
+      "tags" : [
+         "gs"
+      ],
+      "grade" : "B+",
+      "score" : "75 / 100"
+   },
+   "bt" : {
+      "comment" : "",
+      "code" : "bt",
+      "name" : "Bhutan",
+      "tags" : [
+         "gi"
+      ],
+      "score" : "45 / 100",
+      "grade" : "D+"
+   },
+   "am" : {
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "tags" : [
+         "bc"
+      ],
+      "name" : "Armenia",
+      "code" : "am",
+      "comment" : ""
+   },
+   "nr" : {
+      "code" : "nr",
+      "name" : "Nauru",
+      "comment" : "",
+      "grade" : "C+",
+      "score" : "60 / 100",
+      "tags" : [
+         "cl",
+         "gs"
+      ]
+   },
+   "lk" : {
+      "comment" : "They probably thought it looked 'hip' in the 70s.  Thanks to Ted & Sid Traikovski for drawing my attention to the sabre held by the strange animal.",
+      "name" : "Sri Lanka",
+      "code" : "lk",
+      "tags" : [
+         "11",
+         "bc",
+         "gi",
+         "tb"
+      ],
+      "grade" : "D",
+      "score" : "41 / 100"
+   },
+   "np" : {
+      "tags" : [
+         "bs",
+         "o"
+      ],
+      "score" : "60 / 100",
+      "grade" : "C+",
+      "comment" : "",
+      "code" : "np",
+      "name" : "Nepal"
+   },
+   "km" : {
+      "grade" : "D+",
+      "score" : "48 / 100",
+      "tags" : [
+         "1w",
+         "gc",
+         "ms",
+         "tb"
+      ],
+      "name" : "Comoros",
+      "code" : "km",
+      "comment" : ""
+   },
+   "sd" : {
+      "comment" : "",
+      "code" : "sd",
+      "name" : "Sudan",
+      "tags" : [],
+      "grade" : "B",
+      "score" : "70 / 100"
+   },
+   "gy" : {
+      "comment" : "",
+      "name" : "Guyana",
+      "code" : "gy",
+      "tags" : [
+         "o"
+      ],
+      "grade" : "B-",
+      "score" : "65 / 100"
+   },
+   "gr" : {
+      "tags" : [
+         "e1",
+         "o"
+      ],
+      "score" : "70 / 100",
+      "grade" : "B",
+      "comment" : "Impressively eyewatering, with only two colours.",
+      "code" : "gr",
+      "name" : "Greece"
+   },
+   "fk" : {
+      "score" : "38 / 100",
+      "grade" : "D-",
+      "tags" : [
+         "1w",
+         "cn",
+         "gi",
+         "tb"
+      ],
+      "code" : "fk",
+      "name" : "Falkland Islands",
+      "comment" : "Worst UK colonial flag.  Has a sheep on it.  Actually, if you look closely, you can see that the sheep is riding on top of an island, which is riding on top of a ship.  Also the stupid slogan is in English, and is a platitude."
+   },
+   "ke" : {
+      "tags" : [
+         "11",
+         "e1",
+         "tb"
+      ],
+      "score" : "55 / 100",
+      "grade" : "C",
+      "comment" : "",
+      "code" : "ke",
+      "name" : "Kenya"
+   },
+   "gd" : {
+      "comment" : "What is that thing on the left?",
+      "code" : "gd",
+      "name" : "Grenada",
+      "tags" : [
+         "ms",
+         "tb"
+      ],
+      "grade" : "D",
+      "score" : "40 / 100"
+   },
+   "nz" : {
+      "comment" : "",
+      "name" : "New Zealand",
+      "code" : "nz",
+      "tags" : [
+         "cn"
+      ],
+      "score" : "55 / 100",
+      "grade" : "C"
+   },
+   "er" : {
+      "name" : "Eritrea",
+      "code" : "er",
+      "comment" : "",
+      "grade" : "C+",
+      "score" : "60 / 100",
+      "tags" : [
+         "bc"
+      ]
+   },
+   "fi" : {
+      "tags" : [
+         "gc",
+         "s"
+      ],
+      "grade" : "B+",
+      "score" : "76 / 100",
+      "comment" : "",
+      "code" : "fi",
+      "name" : "Finland"
+   },
+   "mn" : {
+      "comment" : "",
+      "name" : "Mongolia",
+      "code" : "mn",
+      "tags" : [
+         "tb"
+      ],
+      "grade" : "C+",
+      "score" : "60 / 100"
+   },
+   "es" : {
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "tags" : [
+         "gi"
+      ],
+      "code" : "es",
+      "name" : "Spain",
+      "comment" : "Spain had a civil war over whether to keep this flag.  The wrong side won."
+   },
+   "sb" : {
+      "score" : "70 / 100",
+      "grade" : "B",
+      "tags" : [
+         "ms",
+         "tb"
+      ],
+      "name" : "Solomon Islands",
+      "code" : "sb",
+      "comment" : ""
+   },
+   "to" : {
+      "comment" : "More effort needed here.",
+      "name" : "Tonga",
+      "code" : "to",
+      "tags" : [
+         "1o"
+      ],
+      "score" : "65 / 100",
+      "grade" : "B-"
+   },
+   "zw" : {
+      "grade" : "D",
+      "score" : "40 / 100",
+      "tags" : [
+         "bs",
+         "tb",
+         "v1"
+      ],
+      "code" : "zw",
+      "name" : "Zimbabwe",
+      "comment" : "Features a hawk sitting on a toilet."
+   },
+   "lc" : {
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "tags" : [
+         "cl"
+      ],
+      "name" : "Saint Lucia",
+      "code" : "lc",
+      "comment" : "Best corporate logo.  Makes me want to invest money there."
+   },
+   "mk" : {
+      "comment" : "Looks unfortunately like a target.",
+      "name" : "Former Yugoslav Republic of Macedonia",
+      "code" : "mk",
+      "tags" : [
+         "o"
+      ],
+      "grade" : "C+",
+      "score" : "60 / 100"
+   },
+   "my" : {
+      "score" : "52 / 100",
+      "grade" : "C-",
+      "tags" : [
+         "tb"
+      ],
+      "name" : "Malaysia",
+      "code" : "my",
+      "comment" : ""
+   },
+   "by" : {
+      "name" : "Belarus",
+      "code" : "by",
+      "comment" : "",
+      "score" : "39 / 100",
+      "grade" : "D-",
+      "tags" : [
+         "bc",
+         "tb"
+      ]
+   },
+   "ms" : {
+      "name" : "Montserrat",
+      "code" : "ms",
+      "comment" : "Features a picture of a woman crucifying a harp.",
+      "score" : "40 / 100",
+      "grade" : "D",
+      "tags" : [
+         "cn",
+         "gi",
+         "tb"
+      ]
+   },
+   "qa" : {
+      "code" : "qa",
+      "name" : "Qatar",
+      "comment" : "",
+      "score" : "75 / 100",
+      "grade" : "B+",
+      "tags" : [
+         "gs"
+      ]
+   },
+   "tn" : {
+      "grade" : "B",
+      "score" : "70 / 100",
+      "tags" : [
+         "1o"
+      ],
+      "code" : "tn",
+      "name" : "Tunisia",
+      "comment" : "Nice design, but this star and crescent features a particularly bad astronomical impossibility."
+   },
+   "sk" : {
+      "tags" : [],
+      "score" : "79 / 100",
+      "grade" : "B+",
+      "comment" : "Quite a nice flag.  Definitely beats Solvenia and Czech Republic, both of which are much nicer places to visit.",
+      "name" : "Slovakia",
+      "code" : "sk"
+   },
+   "eh" : {
+      "comment" : "",
+      "code" : "eh",
+      "name" : "Western Sahara",
+      "tags" : [],
+      "score" : "70 / 100",
+      "grade" : "B"
+   },
+   "fm" : {
+      "tags" : [],
+      "score" : "66 / 100",
+      "grade" : "B-",
+      "comment" : "",
+      "name" : "Micronesia, Federated States of",
+      "code" : "fm"
+   },
+   "ky" : {
+      "score" : "40 / 100",
+      "grade" : "D",
+      "tags" : [
+         "1w",
+         "cn",
+         "gi",
+         "tb"
+      ],
+      "name" : "Cayman Islands",
+      "code" : "ky",
+      "comment" : ""
+   },
+   "vg" : {
+      "name" : "British Virgin Islands",
+      "code" : "vg",
+      "comment" : "",
+      "score" : "40 / 100",
+      "grade" : "D",
+      "tags" : [
+         "1w",
+         "cn",
+         "gi",
+         "tb"
+      ]
+   },
+   "cx" : {
+      "name" : "Christmas Island",
+      "code" : "cx",
+      "comment" : "",
+      "score" : "42 / 100",
+      "grade" : "D",
+      "tags" : [
+         "1m",
+         "gi",
+         "tb"
+      ]
+   },
+   "mh" : {
+      "comment" : "Looks like an airline logo.",
+      "code" : "mh",
+      "name" : "Marshall Islands",
+      "tags" : [
+         "cl"
+      ],
+      "score" : "45 / 100",
+      "grade" : "D+"
+   },
+   "mg" : {
+      "comment" : "",
+      "code" : "mg",
+      "name" : "Madagascar",
+      "tags" : [
+         "o"
+      ],
+      "score" : "73 / 100",
+      "grade" : "B"
+   },
+   "na" : {
+      "comment" : "",
+      "name" : "Namibia",
+      "code" : "na",
+      "tags" : [],
+      "score" : "75 / 100",
+      "grade" : "B+"
+   },
+   "uy" : {
+      "tags" : [
+         "gi"
+      ],
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "comment" : "I like the frowning sun.",
+      "code" : "uy",
+      "name" : "Uruguay"
+   },
+   "bm" : {
+      "tags" : [
+         "bc",
+         "cn"
+      ],
+      "score" : "40 / 100",
+      "grade" : "D",
+      "comment" : "",
+      "name" : "Bermuda",
+      "code" : "bm"
+   },
+   "ng" : {
+      "comment" : "",
+      "code" : "ng",
+      "name" : "Nigeria",
+      "tags" : [
+         "mc"
+      ],
+      "grade" : "B",
+      "score" : "70 / 100"
+   },
+   "va" : {
+      "grade" : "D",
+      "score" : "40 / 100",
+      "tags" : [
+         "bs",
+         "gi",
+         "hc"
+      ],
+      "name" : "Holy See (Vatican City State)",
+      "code" : "va",
+      "comment" : ""
+   },
+   "ba" : {
+      "comment" : "",
+      "code" : "ba",
+      "name" : "Bosnia and Herzegovina",
+      "tags" : [
+         "cl",
+         "ms",
+         "tb"
+      ],
+      "grade" : "C+",
+      "score" : "64 / 100"
+   },
+   "th" : {
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "tags" : [],
+      "name" : "Thailand",
+      "code" : "th",
+      "comment" : ""
+   },
+   "aw" : {
+      "comment" : "Yeeech!  Colours designed to cause pain.",
+      "code" : "aw",
+      "name" : "Aruba",
+      "tags" : [
+         "hc"
+      ],
+      "grade" : "D",
+      "score" : "40 / 100"
+   },
+   "pk" : {
+      "tags" : [
+         "gc"
+      ],
+      "grade" : "A",
+      "score" : "88 / 100",
+      "comment" : "Best use of the star and crescent.  Unfortunately, it depicts something astronomically impossible, namely the eclipse of the moon by a star.  But perhaps it's not a star but a nuclear satellite-weapon aimed at India?",
+      "name" : "Pakistan",
+      "code" : "pk"
+   },
+   "gi" : {
+      "tags" : [
+         "gi"
+      ],
+      "grade" : "C",
+      "score" : "55 / 100",
+      "comment" : "Nice lack of colonial nonsense for a UK territory.  Still too many graven images, though.",
+      "name" : "Gibraltar",
+      "code" : "gi"
+   },
+   "dj" : {
+      "grade" : "B",
+      "score" : "74 / 100",
+      "tags" : [],
+      "code" : "dj",
+      "name" : "Djibouti",
+      "comment" : ""
+   },
+   "kr" : {
+      "grade" : "C+",
+      "score" : "60 / 100",
+      "tags" : [
+         "tb"
+      ],
+      "name" : "South Korea",
+      "code" : "kr",
+      "comment" : "Looks good on a T-shirt, not on a flag."
+   },
+   "jp" : {
+      "score" : "87 / 100",
+      "grade" : "A",
+      "tags" : [
+         "s"
+      ],
+      "code" : "jp",
+      "name" : "Japan",
+      "comment" : "A classic.  Simple, to the point."
+   },
+   "gt" : {
+      "comment" : "There are so many things wrong with this flag.",
+      "name" : "Guatemala",
+      "code" : "gt",
+      "tags" : [
+         "11",
+         "1w",
+         "bc",
+         "gi",
+         "tb"
+      ],
+      "grade" : "D",
+      "score" : "40 / 100"
+   },
+   "py" : {
+      "name" : "Paraguay",
+      "code" : "py",
+      "comment" : "Name of country written on the flag.  Perhaps they have the excuse that their citizens can't remember the difference between Paraguay and Uruguay either.",
+      "grade" : "D",
+      "score" : "40 / 100",
+      "tags" : [
+         "1w",
+         "bs",
+         "tb"
+      ]
+   },
+   "vn" : {
+      "comment" : "Not quite as nice as Somalia.",
+      "name" : "Viet Nam",
+      "code" : "vn",
+      "tags" : [
+         "s"
+      ],
+      "score" : "85 / 100",
+      "grade" : "A"
+   },
+   "ar" : {
+      "score" : "70 / 100",
+      "grade" : "B",
+      "tags" : [
+         "gc"
+      ],
+      "code" : "ar",
+      "name" : "Argentina",
+      "comment" : ""
+   },
+   "tc" : {
+      "tags" : [
+         "cn",
+         "gi",
+         "tb"
+      ],
+      "score" : "40 / 100",
+      "grade" : "D",
+      "comment" : "",
+      "code" : "tc",
+      "name" : "Turks and Caicos Islands"
+   },
+   "tt" : {
+      "tags" : [
+         "bc"
+      ],
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "comment" : "",
+      "code" : "tt",
+      "name" : "Trinidad and Tobago"
+   },
+   "vu" : {
+      "code" : "vu",
+      "name" : "Vanuatu",
+      "comment" : "",
+      "grade" : "C+",
+      "score" : "60 / 100",
+      "tags" : [
+         "gc",
+         "gi",
+         "tb"
+      ]
+   },
+   "cu" : {
+      "name" : "Cuba",
+      "code" : "cu",
+      "comment" : "",
+      "grade" : "A",
+      "score" : "85 / 100",
+      "tags" : []
+   },
+   "dz" : {
+      "comment" : "",
+      "code" : "dz",
+      "name" : "Algeria",
+      "tags" : [
+         "e1"
+      ],
+      "score" : "60 / 100",
+      "grade" : "C+"
+   },
+   "ni" : {
+      "tags" : [
+         "1w",
+         "bc",
+         "bs",
+         "gi"
+      ],
+      "score" : "40 / 100",
+      "grade" : "D",
+      "comment" : "It is probably lucky for Nicaragua that the vile choice of colours in this flag prevents me from seeing what's written on it.",
+      "code" : "ni",
+      "name" : "Nicaragua"
+   },
+   "no" : {
+      "tags" : [],
+      "score" : "74 / 100",
+      "grade" : "B",
+      "comment" : "",
+      "code" : "no",
+      "name" : "Norway"
+   },
+   "gw" : {
+      "code" : "gw",
+      "name" : "Guinea-Bissau",
+      "comment" : "",
+      "grade" : "B-",
+      "score" : "68 / 100",
+      "tags" : []
+   },
+   "so" : {
+      "name" : "Somalia",
+      "code" : "so",
+      "comment" : "I think this one beats Vietname by just a little, owing to superior colour choice and a smaller star.",
+      "grade" : "A",
+      "score" : "86 / 100",
+      "tags" : [
+         "gc",
+         "gs",
+         "s"
+      ]
+   },
+   "ad" : {
+      "grade" : "C-",
+      "score" : "53 / 100",
+      "tags" : [
+         "tb"
+      ],
+      "code" : "ad",
+      "name" : "Andorra",
+      "comment" : ""
+   },
+   "gm" : {
+      "grade" : "A+",
+      "score" : "90 / 100",
+      "tags" : [
+         "gc"
+      ],
+      "code" : "gm",
+      "name" : "Gambia",
+      "comment" : "Great design and colour choice.  Also represents the geography of the country (without being a map)."
+   },
+   "pf" : {
+      "comment" : "",
+      "code" : "pf",
+      "name" : "French Polynesia",
+      "tags" : [
+         "tb"
+      ],
+      "score" : "54 / 100",
+      "grade" : "C-"
+   },
+   "cv" : {
+      "code" : "cv",
+      "name" : "Cape Verde",
+      "comment" : "",
+      "grade" : "C",
+      "score" : "55 / 100",
+      "tags" : [
+         "cl",
+         "e1"
+      ]
+   },
+   "au" : {
+      "tags" : [
+         "cn",
+         "ms"
+      ],
+      "score" : "55 / 100",
+      "grade" : "C",
+      "comment" : "",
+      "name" : "Australia",
+      "code" : "au"
+   },
+   "nl" : {
+      "tags" : [],
+      "score" : "70 / 100",
+      "grade" : "B",
+      "comment" : "",
+      "code" : "nl",
+      "name" : "Netherlands"
+   },
+   "jo" : {
+      "code" : "jo",
+      "name" : "Jordan",
+      "comment" : "",
+      "grade" : "B",
+      "score" : "70 / 100",
+      "tags" : [
+         "e1"
+      ]
+   },
+   "in" : {
+      "name" : "India",
+      "code" : "in",
+      "comment" : "",
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "tags" : [
+         "tb"
+      ]
+   },
+   "as" : {
+      "code" : "as",
+      "name" : "American Samoa",
+      "comment" : "Given the awfulness of other US designed flags, they have had a lucky escape.",
+      "score" : "39 / 100",
+      "grade" : "D-",
+      "tags" : [
+         "gi"
+      ]
+   },
+   "et" : {
+      "comment" : "",
+      "code" : "et",
+      "name" : "Ethiopia",
+      "tags" : [
+         "tb"
+      ],
+      "score" : "55 / 100",
+      "grade" : "C"
+   },
+   "lr" : {
+      "score" : "74 / 100",
+      "grade" : "B",
+      "tags" : [
+         "1o",
+         "tb"
+      ],
+      "code" : "lr",
+      "name" : "Liberia",
+      "comment" : "Not very original, but at least an improvement on the US flag."
+   },
+   "bj" : {
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "tags" : [
+         "s"
+      ],
+      "code" : "bj",
+      "name" : "Benin",
+      "comment" : ""
+   },
+   "tw" : {
+      "name" : "Taiwan",
+      "code" : "tw",
+      "comment" : "",
+      "score" : "70 / 100",
+      "grade" : "B",
+      "tags" : [
+         "s"
+      ]
+   },
+   "mw" : {
+      "tags" : [
+         "bc"
+      ],
+      "grade" : "B",
+      "score" : "70 / 100",
+      "comment" : "",
+      "code" : "mw",
+      "name" : "Malawi"
+   },
+   "vc" : {
+      "comment" : "Good effort for a country whose name sounds like a 50s rock'n'roll group.",
+      "code" : "vc",
+      "name" : "Saint Vincent and the Grenadines",
+      "tags" : [
+         "o"
+      ],
+      "score" : "65 / 100",
+      "grade" : "B-"
+   },
+   "mr" : {
+      "code" : "mr",
+      "name" : "Mauritania",
+      "comment" : "",
+      "grade" : "B",
+      "score" : "73 / 100",
+      "tags" : [
+         "bc"
+      ]
+   },
+   "sg" : {
+      "tags" : [
+         "ms"
+      ],
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "comment" : "",
+      "name" : "Singapore",
+      "code" : "sg"
+   },
+   "ga" : {
+      "score" : "75 / 100",
+      "grade" : "B+",
+      "tags" : [
+         "gc",
+         "mc"
+      ],
+      "code" : "ga",
+      "name" : "Gabon",
+      "comment" : ""
+   },
+   "sv" : {
+      "comment" : "Not only did they write the name of country on the flag, but its full mailing address, in a living language.",
+      "name" : "El Salvador",
+      "code" : "sv",
+      "tags" : [
+         "1w",
+         "bc",
+         "tb"
+      ],
+      "grade" : "D-",
+      "score" : "36 / 100"
+   },
+   "sz" : {
+      "name" : "Swaziland",
+      "code" : "sz",
+      "comment" : "",
+      "score" : "55 / 100",
+      "grade" : "C",
+      "tags" : [
+         "11",
+         "gi",
+         "tb"
+      ]
+   },
+   "td" : {
+      "tags" : [
+         "mc"
+      ],
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "comment" : "",
+      "name" : "Chad",
+      "code" : "td"
+   },
+   "kp" : {
+      "tags" : [
+         "gs"
+      ],
+      "score" : "80 / 100",
+      "grade" : "A-",
+      "comment" : "The star is very well placed with regard to the shape of the whole flag, but the overall design is just somehow lacking in zest. ",
+      "name" : "North Korea",
+      "code" : "kp"
+   },
+   "mv" : {
+      "name" : "Maldives",
+      "code" : "mv",
+      "comment" : "That colour scheme is close to being hideous",
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "tags" : [
+         "bc",
+         "o"
+      ]
+   },
+   "kw" : {
+      "tags" : [
+         "o"
+      ],
+      "grade" : "B-",
+      "score" : "65 / 100",
+      "comment" : "",
+      "code" : "kw",
+      "name" : "Kuwait"
+   },
+   "ma" : {
+      "tags" : [
+         "bc",
+         "e1",
+         "s"
+      ],
+      "score" : "72 / 100",
+      "grade" : "B",
+      "comment" : "Apart from the colours, this is a nice design, pentagram is a bit adolescent though.",
+      "name" : "Morocco",
+      "code" : "ma"
+   },
+   "ug" : {
+      "comment" : "",
+      "name" : "Uganda",
+      "code" : "ug",
+      "tags" : [
+         "gi",
+         "tb",
+         "v1"
+      ],
+      "score" : "40 / 100",
+      "grade" : "D"
+   },
+   "ph" : {
+      "name" : "Philippines",
+      "code" : "ph",
+      "comment" : "",
+      "grade" : "C",
+      "score" : "55 / 100",
+      "tags" : [
+         "ms"
+      ]
+   },
+   "an" : {
+      "name" : "Netherlands Antilles",
+      "code" : "an",
+      "comment" : "",
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "tags" : [
+         "ms",
+         "tb"
+      ]
+   },
+   "hr" : {
+      "grade" : "C",
+      "score" : "55 / 100",
+      "tags" : [
+         "tb"
+      ],
+      "name" : "Croatia",
+      "code" : "hr",
+      "comment" : ""
+   },
+   "dk" : {
+      "tags" : [
+         "s"
+      ],
+      "score" : "74 / 100",
+      "grade" : "B",
+      "comment" : "",
+      "name" : "Denmark",
+      "code" : "dk"
+   },
+   "fo" : {
+      "tags" : [],
+      "score" : "80 / 100",
+      "grade" : "A-",
+      "comment" : "Nicest of the cross flags so popular in Scandinavia.",
+      "code" : "fo",
+      "name" : "Faroe Islands"
+   },
+   "pe" : {
+      "score" : "65 / 100",
+      "grade" : "B-",
+      "tags" : [
+         "mc",
+         "s"
+      ],
+      "name" : "Peru",
+      "code" : "pe",
+      "comment" : ""
+   }
+}
