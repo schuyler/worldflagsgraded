@@ -34,20 +34,20 @@
         <div class="flag">
           <a href="fotw/{{ f.code }}.gif"><img src="fotw/{{ f.code }}-lil.gif" /></a>
         </div>
-        <div class="detail">
-          <div class="name">{{ f.name }}</div>
-          <div class="rating">
-            <div class="grade">{{ f.grade }}</div>
-            <div class="score">{{ f.score }}</div>
-          </div>
-        </div>
         <div class="tags">{% for tag in f.tags %}
           <div class="tag">
             <div class="tag-icon"><img src="icons/{{ tag }}.gif" /></div>
             <div class="tag-name">{{ tags[tag] }}</div>
           </div>{% endfor %}
         </div>
-        <div class="comment">{{ f.comment }}</div>
+        <div class="detail">
+          <div class="name">{{ f.name }}</div>
+          <div class="rating">
+            <div class="grade">{{ f.grade }}</div>
+            <div class="score">{{ f.score }}</div>
+          </div>
+          <div class="comment">{{ f.comment }}</div>
+        </div>
       </div>
       {% endfor %}
     </div>
@@ -61,7 +61,7 @@
         <li><a href="index.html">Home</a></li>
       </ul>
       <hr />
-      <div style="impressum">
+      <div class="impressum">
         This site was originally created by <a
         href="https://web.archive.org/web/20150213155256/http://www.joshparsons.net/">Josh
         Parsons</a> and is maintained here <a

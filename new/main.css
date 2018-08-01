@@ -9,12 +9,34 @@ body {
     max-width: 800px;
 }
 
+.page {
+    margin: 0 0.5em;
+}
+
+h1 {
+    margin: 0.5em auto;
+}
+
+h2 {
+    margin: 0.5em auto;
+}
+
 .header {
     text-align: center
 }
 
+.main {
+    margin: 0.5em auto;
+}
+
+.menu {
+    margin: 1em;
+}
+
 .menu li {
     display: inline;
+    margin: 1em;
+    white-space: nowrap;
 }
 
 .country {
@@ -32,9 +54,7 @@ body {
 }
 
 .detail {
-    /*margin-left: 140px;*/
-    min-width: 256px;
-    float: left;
+    margin-left: 140px;
 }
 
 .name {
@@ -54,22 +74,22 @@ body {
 }
 
 .score {
-    margin-left: 0.5em;
+    margin-left: 0.25em;
     display: inline;
 }
 
 .comment {
-    clear: both;
+    /*clear: both;*/
 }
 
 .tags {
-    max-width: 256px;
-    min-width: 64px;
+    max-width: 250px;
     float: right;
     margin-top: 3px;
 }
 
 .tag {
+    /*display: inline;*/
     float: right;
     width: 64px;
     text-align: center;
@@ -85,4 +105,13 @@ body {
 
 .even-row {
     background-color: #ddd;
+}
+
+.footer {
+    text-align: center;
+}
+
+.impressum {
+    margin: 0.5em auto;
+    font-size: 0.8em;
 }
