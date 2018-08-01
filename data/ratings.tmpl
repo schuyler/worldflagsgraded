@@ -1,0 +1,73 @@
+<html>
+<head>
+  <title>The world's flags given letter grades</title>
+  <link rel="stylesheet" href="main.css" />
+  <meta property="og:title" content="The world's flags given letter grades">
+  <meta property="og:description" content="There are significant differences
+  in quality between the flags of different countries. Some are good, some
+  are bad. Some countries have clearly taken care in the choice of colours,
+  layout, and design. Others have been lazy, stolen the flags of their
+  neighbours, or just designed flags that are clearly supposed to cause pain
+  to those who look at them.">
+  <meta property="og:image" content="https://worldflagsgraded.com/fotw/gm.gif" />
+</head>
+<body>
+  <div class="page">
+    <div class="header">
+      <div class="page-title">
+        <h2>The world's flags given letter grades</h2>
+        <h1>All grades</h1>
+      </div>
+      <hr />
+      <ul class="menu">
+        <li><a href="intro.html">Introduction</a></li>
+        <li><a href="meth.html">Methodology</a></li>
+        <li><a href="alpha.html">All Grades (alpha)</a></li>
+        <li><a href="ratings.html">All Grades (numeric)</a></li>
+        <li><a href="index.html">Home</a></li>
+      </ul>
+      <hr />
+    </div>
+    <div class="main">
+      {% for f in flags %}
+      <div class="country {% if loop.index % 2 == 1 %}even{% else %}odd{% endif %}-row">
+        <div class="flag">
+          <a href="fotw/{{ f.code }}.gif"><img src="fotw/{{ f.code }}-lil.gif" /></a>
+        </div>
+        <div class="detail">
+          <div class="name">{{ f.name }}</div>
+          <div class="rating">
+            <div class="grade">{{ f.grade }}</div>
+            <div class="score">{{ f.score }}</div>
+          </div>
+        </div>
+        <div class="tags">{% for tag in f.tags %}
+          <div class="tag">
+            <div class="tag-icon"><img src="icons/{{ tag }}.gif" /></div>
+            <div class="tag-name">{{ tags[tag] }}</div>
+          </div>{% endfor %}
+        </div>
+        <div class="comment">{{ f.comment }}</div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="footer">
+      <hr />
+      <ul class="menu">
+        <li><a href="intro.html">Introduction</a></li>
+        <li><a href="meth.html">Methodology</a></li>
+        <li><a href="alpha.html">All Grades (alpha)</a></li>
+        <li><a href="ratings.html">All Grades (numeric)</a></li>
+        <li><a href="index.html">Home</a></li>
+      </ul>
+      <hr />
+      <div style="impressum">
+        This site was originally created by <a
+        href="https://web.archive.org/web/20150213155256/http://www.joshparsons.net/">Josh
+        Parsons</a> and is maintained here <a
+        href="http://dailynous.com/2017/04/12/josh-parsons-1973-2017/">in tribute</a>.
+      </div>
+    </div>
+  </div>
+</body>
+</html>
