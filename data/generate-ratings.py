@@ -14,7 +14,7 @@ tags = json.load(open(base + "/tags.json"))
 data = json.load(open(base + "/flags.json"))
 flags = list(data.values())
 flags.sort(key=lambda a: a[key])
-flags.reverse()
+if key == "score": flags.reverse()
 
 tmpl = jinja2.Template(open("ratings.tmpl").read())
 print(tmpl.render(flags=flags, tags=tags, path=path))
