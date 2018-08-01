@@ -9,7 +9,7 @@
   layout, and design. Others have been lazy, stolen the flags of their
   neighbours, or just designed flags that are clearly supposed to cause pain
   to those who look at them.">
-  <meta property="og:image" content="https://worldflagsgraded.com/fotw/gm.gif" />
+  <meta property="og:image" content="https://worldflagsgraded.com/{{ path }}fotw/gm.gif" />
 </head>
 <body>
   <div class="page">
@@ -32,11 +32,11 @@
       {% for f in flags %}
       <div class="country {% if loop.index % 2 == 1 %}even{% else %}odd{% endif %}-row">
         <div class="flag">
-          <a href="fotw/{{ f.code }}.gif"><img src="fotw/{{ f.code }}-lil.gif" /></a>
+          <a href="{{ path }}fotw/{{ f.code }}.gif"><img src="{{ path }}fotw/{{ f.code }}-lil.gif" /></a>
         </div>
         <div class="tags">{% for tag in f.tags %}
           <div class="tag">
-            <div class="tag-icon"><img src="icons/{{ tag }}.gif" /></div>
+            <div class="tag-icon"><img src="{{ path }}icons/{{ tag }}.gif" /></div>
             <div class="tag-name">{{ tags[tag] }}</div>
           </div>{% endfor %}
         </div>
