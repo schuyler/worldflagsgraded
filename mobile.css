@@ -14,5 +14,10 @@
   table * p { margin-left: 0; clear: both }
   font[size="6"] { font-size: 32px; white-space: nowrap }
   a img { margin: 6px 12px 6px 0 }
-  table[align="right"] td { padding: 2px }
+  /* Tag icons: larger, and wrap onto a second line if they don't fit. */
+  table[align="right"], table[align="right"] > tbody, table[align="right"] > tbody > tr {
+    display: block; text-align: right
+  }
+  table[align="right"] td { display: inline-block; vertical-align: middle; padding: 2px }
+  img[src^="icons/"] { zoom: 1.25 }
 }
