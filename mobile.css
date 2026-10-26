@@ -25,5 +25,5 @@
   table[align="right"], table[align="right"] > tbody, table[align="right"] > tbody > tr {
     display: block; text-align: right
   }
-  table[align="right"] td { display: inline-block; vertical-align: middle; padding: 2px }
+  table[align="right"] td { display: inline-block; vertical-align: bottom; padding: 2px; white-space: nowrap }
 }
