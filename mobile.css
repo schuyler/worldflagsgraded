@@ -1,0 +1,18 @@
+/* Narrow-screen adjustments only; desktop layout is unchanged. */
+@media (max-width: 600px) {
+  body { padding: 0 8px }
+  /* Navigation bars: let the links wrap instead of overflowing. */
+  table:has(> tbody > tr > td:first-child > a[href="intro.html"]),
+  table:has(> tbody > tr > td:first-child > a[href="intro.html"]) > tbody,
+  table:has(> tbody > tr > td:first-child > a[href="intro.html"]) > tbody > tr {
+    display: block; text-align: center
+  }
+  table:has(> tbody > tr > td:first-child > a[href="intro.html"]) td {
+    display: inline-block
+  }
+  /* Grade listings: let the comment use the full width under the flag. */
+  table * p { margin-left: 0; clear: both }
+  font[size="6"] { font-size: 32px; white-space: nowrap }
+  a img { margin: 6px 12px 6px 0 }
+  table[align="right"] td { padding: 2px }
+}
