@@ -1,0 +1,30 @@
+/* Narrow-screen adjustments only; desktop layout is unchanged. */
+@media (max-width: 600px) {
+  body { padding: 0 8px }
+  /* Navigation bars: let the links wrap instead of overflowing. */
+  table:has(> tbody > tr > td:first-child > a[href="intro.html"]),
+  table:has(> tbody > tr > td:first-child > a[href="intro.html"]) > tbody,
+  table:has(> tbody > tr > td:first-child > a[href="intro.html"]) > tbody > tr {
+    display: block; text-align: center
+  }
+  table:has(> tbody > tr > td:first-child > a[href="intro.html"]) td {
+    display: inline-block
+  }
+  /* Grade listings: flag with name and score beside it, then tags, then
+     the comment, so the tags can't squeeze the name. */
+  tr[bgcolor] > td { display: grid; grid-template-columns: auto 1fr; align-items: start }
+  tr[bgcolor] > td > a { grid-row: 1 / span 2 }
+  tr[bgcolor] > td > h2 { grid-column: 2; grid-row: 1 }
+  tr[bgcolor] > td > font { grid-column: 2; grid-row: 2 }
+  tr[bgcolor] > td > table { grid-column: 1 / -1; grid-row: 3; float: none; justify-self: end }
+  tr[bgcolor] > td > p { grid-column: 1 / -1; grid-row: 4 }
+  table * p { margin-left: 0; clear: both }
+  font[size="6"] { font-size: 32px; white-space: nowrap }
+  a img { margin: 6px 12px 6px 0 }
+  /* Tag icons: larger, and wrap onto a second line if they don't fit. */
+  table[align="right"], table[align="right"] > tbody, table[align="right"] > tbody > tr {
+    display: block; text-align: right
+  }
+  table[align="right"] td { display: inline-block; vertical-align: middle; padding: 2px }
+  img[src^="icons/"] { zoom: 1.25 }
+}
